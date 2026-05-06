@@ -43,6 +43,7 @@ Part 4: JSON Normalization
 Part 5: Dashboard Visualization
 •	Built interactive dashboard using Looker Studio 
 •	Included KPI cards, charts, tables, and filters 
+https://datastudio.google.com/reporting/d1b30552-870d-4f6c-9c66-b572e879c1fc
 
 Tools Used
 
