@@ -1,0 +1,3 @@
+transaction_id,transaction_date,merchant_id,amount_usd,status,payment_method
+R004,3/2/2026,M003,2100,success,Card
+R010,3/5/2026,M004,2500,success,Wallet
