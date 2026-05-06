@@ -1,10 +1,11 @@
 QuickPay FinTech Operations Case Study
 
 Student Details
-•	Name: Rutvika Sangidwar 
+•	Name: Rutvika Sangidwar     
 •	Student ID: BITSOM_FTAI_2601237
 
 Public GitHub Repository Link
+https://github.com/rutvikasangidwar-hub/fintech_project.git
 
 Project Overview
 This project focuses on fintech transaction analysis using spreadsheet cleaning, SQL analysis, Python reconciliation workflows, JSON normalization, and dashboard visualization.
