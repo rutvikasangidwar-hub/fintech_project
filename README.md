@@ -4,6 +4,8 @@ Student Details
 •	Name: Rutvika Sangidwar 
 •	Student ID: BITSOM_FTAI_2601237
 
+Public GitHub Repository Link
+
 Project Overview
 This project focuses on fintech transaction analysis using spreadsheet cleaning, SQL analysis, Python reconciliation workflows, JSON normalization, and dashboard visualization.
 
