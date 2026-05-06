@@ -12,11 +12,11 @@ This project focuses on fintech transaction analysis using spreadsheet cleaning,
 
 Short Run Instructions
 
-Download or clone the repository
-Place all raw files inside 01_data/raw/
-Open spreadsheet files for Part 1
-Run SQL queries from 03_sql/analysis_queries.sql
-Run Python notebook 04_python/fintech_pipeline.ipynb
+Download or clone the repository        
+Place all raw files inside 01_data/raw/       
+Open spreadsheet files for Part 1      
+Run SQL queries from 03_sql/analysis_queries.sql       
+Run Python notebook 04_python/fintech_pipeline.ipynb      
 Open dashboard link from 05_visualization/dashboard_link.txt
 
 Tasks Completed
